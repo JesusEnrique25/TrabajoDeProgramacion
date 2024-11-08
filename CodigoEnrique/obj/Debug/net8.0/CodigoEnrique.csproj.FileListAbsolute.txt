@@ -1,0 +1,14 @@
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\bin\Debug\net8.0\CodigoEnrique.exe
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\bin\Debug\net8.0\CodigoEnrique.deps.json
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\bin\Debug\net8.0\CodigoEnrique.runtimeconfig.json
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\bin\Debug\net8.0\CodigoEnrique.dll
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\bin\Debug\net8.0\CodigoEnrique.pdb
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\CodigoEnrique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\CodigoEnrique.AssemblyInfoInputs.cache
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\CodigoEnrique.AssemblyInfo.cs
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\CodigoEnrique.csproj.CoreCompileInputs.cache
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\CodigoEnrique.dll
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\refint\CodigoEnrique.dll
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\CodigoEnrique.pdb
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\CodigoEnrique.genruntimeconfig.cache
+C:\Users\ludwi\Desktop\C# Projects\CodigoEnrique\CodigoEnrique\obj\Debug\net8.0\ref\CodigoEnrique.dll
